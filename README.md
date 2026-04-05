@@ -1,9 +1,14 @@
-<details open>
+<details open name="idioma" id="en">
   <summary>🇺🇸 <strong>English Version</strong></summary>
   <br>
 
+<p align="right">
+  <a href="#pt-br"><kbd>🇧🇷 Ler em Português (BR)</kbd></a>
+</p>
+
 # Hi, I'm Daniel Salvini! 👋
-### Full-Stack Web Developer
+
+## Full-Stack Web Developer
 
 I am currently pursuing a Bachelor's degree in Computer Science at the Federal University of Fronteira Sul (UFFS). I am a FullStack professional with end-to-end development experience, focusing on using modern technologies to transform business requirements into robust software with clean architecture.
 
@@ -28,20 +33,25 @@ I develop within a native Linux Mint environment, smoothly handling complex proc
 
 ## 📫 Let's Connect
 
-* **Email:** danielsalvini.ds@gmail.com
+* **Email:** <danielsalvini.ds@gmail.com>
 * **Location:** Chapecó, SC, Brazil
-* **Network:** [LinkedIn](URL_DO_SEU_LINKEDIN)
+* **Network:** [LinkedIn](https://www.linkedin.com/in/danielsalvini/)
 
 </details>
 
 <br>
 
-<details>
+<details name="idioma" id="pt-br">
   <summary>🇧🇷 <strong>Versão em Português Brasileiro</strong></summary>
   <br>
 
+<p align="right">
+  <a href="#en"><kbd>🇺🇸 Ler em Inglês (US)</kbd></a>
+</p>
+
 # Olá, eu sou o Daniel Salvini! 👋
-### Desenvolvedor Web Full-Stack
+
+## Desenvolvedor Web Full-Stack
 
 Atualmente sou bacharelando em Ciências da Computação pela Universidade Federal da Fronteira Sul (UFFS). Sou um profissional FullStack com vivência em desenvolvimento de ponta a ponta, com o objetivo de utilizar tecnologias modernas para transformar requisitos de negócio em software robusto e focado em arquitetura limpa. 
 
@@ -66,8 +76,8 @@ Trabalho em um ambiente Linux Mint, orquestrando processos e garantindo alta per
 
 ## 📫 Como me encontrar
 
-* **Email:** danielsalvini.ds@gmail.com
+* **Email:** <danielsalvini.ds@gmail.com>
 * **Localização:** Chapecó, SC
-* **Redes:** [LinkedIn](URL_DO_SEU_LINKEDIN)
+* **Redes:** [LinkedIn](https://www.linkedin.com/in/danielsalvini/)
 
 </details>
