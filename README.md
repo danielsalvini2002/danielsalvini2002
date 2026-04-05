@@ -1,9 +1,10 @@
 <details open name="idioma" id="en">
   <summary id="en-summary">🇺🇸 <strong>English Version</strong></summary>
+  <a id="en-content"></a>
   <br>
 
 <p align="right">
-  <a href="#pt-br-summary"><kbd>🇧🇷 Ler em Português (BR)</kbd></a>
+  <a href="#pt-br-content"><kbd>🇧🇷 Ler em Português (BR)</kbd></a>
 </p>
 
 # Hi, I'm Daniel Salvini! 👋
@@ -43,10 +44,11 @@ I develop within a native Linux Mint environment, smoothly handling complex proc
 
 <details name="idioma" id="pt-br">
   <summary id="pt-br-summary">🇧🇷 <strong>Versão em Português Brasileiro</strong></summary>
+  <a id="pt-br-content"></a>
   <br>
 
 <p align="right">
-  <a href="#en-summary"><kbd>🇺🇸 Read in English (US)</kbd></a>
+  <a href="#en-content"><kbd>🇺🇸 Read in English (US)</kbd></a>
 </p>
 
 # Olá, eu sou o Daniel Salvini! 👋
